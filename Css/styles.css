@@ -111,7 +111,7 @@ nav .profile-link a {
   display: grid;
   grid-template-columns: 1fr 4fr 1fr;
   height: 100%;
-  background-image: url("../Images/Cover.png");
+  background-image: url("/images/blogging-coding-copywriting-34140.jpg");
   opacity: 0.8;
   background-position: center;
   background-repeat: no-repeat;
