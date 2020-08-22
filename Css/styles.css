@@ -88,7 +88,7 @@ nav {
 nav .nav-logo-container {
   margin-left: 50px;
 }
-nav .nav-logo-container img {
+.nav-logo-container img {
   width: 200px;
   margin-top: 10px;
 }
@@ -111,7 +111,7 @@ nav .profile-link a {
   display: grid;
   grid-template-columns: 1fr 4fr 1fr;
   height: 100%;
-  background-image: url("/images/blogging-coding-copywriting-34140.jpg");
+  background-image: url("/images/57-min-scaled.jpg");
   opacity: 0.8;
   background-position: center;
   background-repeat: no-repeat;
